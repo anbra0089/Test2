@@ -1,4 +1,4 @@
 print("bye world")
-print("heihei")
+print("heihei") #oppdaterer heihei
 print("see you soon")
 #Update
